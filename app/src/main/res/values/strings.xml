@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Square Triangular Numbers</string>
+    <string name="enter_a_number_below_to_find_out_if_it_is_a_triangular_number_or_square_number">Enter a number below to find out if it is a triangular number or square number</string>
+    <string name="go">Go</string>
+    <string name="calculate">Calculate!</string>
+</resources>
